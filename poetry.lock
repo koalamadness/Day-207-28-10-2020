@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "MySQL driver written in Python"
+name = "mysql-connector"
+optional = false
+python-versions = "*"
+version = "2.2.9"
+
+[metadata]
+content-hash = "9a4ad0a097f4dfb3312fe3ec417debed7bd54b1fdfa1b9ece6357251ed19889f"
+python-versions = "^3.8"
+
+[metadata.files]
+mysql-connector = [
+    {file = "mysql-connector-2.2.9.tar.gz", hash = "sha256:1733e6ce52a049243de3264f1fbc22a852cb35458c4ad739ba88189285efdf32"},
+]
